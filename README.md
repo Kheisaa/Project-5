@@ -8,3 +8,5 @@ Name    : Kheisa Gading M. Syahputri
 Program : Advanced AI
 
 Tech Stack :
+* Jupyter Notebook
+  
